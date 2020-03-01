@@ -29,6 +29,10 @@
         <category android:name="android.intent.category.LAUNCHER"/>
       </intent-filter>
     </activity>
+      <activity android:name=".ActualCameraActivity" />
+    <activity android:name=".page1" />
+    <activity android:name=".page2" />
+    <activity android:name=".page3" />
 
   </application>
 

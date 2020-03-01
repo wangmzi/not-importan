@@ -17,4 +17,24 @@
   <string name="tfe_pn_app_name" translation_description="Posenet demo app built with Posenet library [CHAR_LIMIT=40]">TFL Posenet</string>
   <string name="tfe_pn_request_permission" translation_description="Request camera permission [CHAR_LIMIT=40]">This app needs camera permission.</string>
   <string name="tfe_pn_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+  <string name="app_name">Bendy Buddy</string>
+  <string name="action_settings">Settings</string>
+  <!-- Strings used for fragments for navigation -->
+  <string name="first_fragment_label">First Fragment</string>
+  <string name="second_fragment_label">Second Fragment</string>
+  <string name="next">Get Started</string>
+  <string name="previous">Go Back</string>
+  <string name="title_card">Bendy Buddy</string>
+  <string name="camera_text">Placeholder for camera view</string>
+  <string name="left_arrow">&lt;</string>
+  <string name="right_arrow">&gt;</string>
+
+  <string name="hello_first_fragment">Welcome to Bendy Buddy, your helpful tool for all your yoga needs!</string>
+  <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+  <string name="text_with_paragraphs">
+           Mountain Pose — Tadasana (tah-DAHS-uh-nuh) — is an active pose that helps improve posture, balance, and calm focus.
+           Its name comes from the Sanskrit words "tada" (meaning "mountain") and "asana" (meaning "pose").
+           Tadasana is the foundational pose for all standing yoga postures and full inversions, such as Handstand and Headstand.
+           It is the pose from which every other standing pose in your practice is born!
+    </string>
 </resources>
